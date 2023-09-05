@@ -1,0 +1,14 @@
+package Pages;
+
+import com.codeborne.selenide.SelenideElement;
+import Tests.BaseTest;
+
+public class BasePage extends BaseTest {
+    protected void clickElement(SelenideElement element) {
+        element.click();
+    }
+
+    protected boolean isElementDisplayed(SelenideElement element) {
+        return element.isDisplayed();
+    }
+}
