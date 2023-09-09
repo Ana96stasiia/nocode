@@ -1,7 +1,0 @@
-﻿Bugs identified by me:
-
-
-1. [Fixed] [Bug_ID_84] [Bug Title testProfessorSearch()]
-2. [Fixed] [Bug_ID_82] [Bug Title testStudentSearch()]
-3. [Fixed] [Bug_ID_16] [Bug Title testForgotPasswordLink()]
-4. [Fixed] [Bug_ID_85] [Bug Title testButtonAddACourse()]
